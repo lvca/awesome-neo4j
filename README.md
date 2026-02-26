@@ -60,6 +60,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 - [openCypher](http://www.opencypher.org/) - openCypher is an open source project to bring a new public implementation of the industry’s most widely adopted graph query language: Cypher.
 - [Bolt Protocol](https://boltprotocol.org) - The Bolt network protocol is a highly efficient, lightweight client-server protocol designed for database applications.
+- [ArcadeDB](https://arcadedb.com/) - Open-source multi-model database compatible with Neo4j Bolt protocol and OpenCypher queries. Existing Neo4j drivers can connect directly.
 
 # Connectors
 
